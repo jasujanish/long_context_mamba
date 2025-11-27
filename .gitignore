@@ -1,0 +1,4 @@
+
+*.pem
+*.parquet
+*.json
