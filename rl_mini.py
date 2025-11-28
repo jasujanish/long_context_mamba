@@ -2,7 +2,7 @@ import os
 os.environ["TRANSFORMERS_TRUST_REMOTE_CODE"] = "1"
 from typing import List, Optional
 # [Insert your imports and reward functions here: reward_answer_correctness, etc.]
-from rewards import reward_answer_correctness, reward_citation_accuracy, reward_formatting
+from rewards import reward_answer_correctness, reward_citation_accuracy, reward_formatting, reward_repetition_penalty
 import transformers
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -14,33 +14,38 @@ from datasets import Dataset
 # scaling constants
 GAMMA_ANSWER = 5.0
 GAMMA_CIT_CORRECT = 3.0
-GAMMA_FORMAT = 1.0
+GAMMA_FORMAT = 3.0
+GAMMA_REP = 1.0
 
-# --- REWARD WRAPPERS (Keep as provided) ---
+# Reward wrappers
 def answer_reward(completions: List[str], answer: List[str], **kwargs,) -> List[float]:
+    """Wraps answer reward with scaling."""
     base = reward_answer_correctness(completions, answer)
     return [GAMMA_ANSWER * float(x) for x in base]
 
 def citation_reward(completions: List[str], gold_ids: List[List[str]], **kwargs,) -> List[float]:
+    """Wraps citation reward with scaling."""
     base = reward_citation_accuracy(completions, gold_ids)
     return [GAMMA_CIT_CORRECT * float(x) for x in base]
 
 def formatting_reward(completions: List[str], **kwargs,) -> List[float]:
+    """Wraps formatting reward with scaling."""
     base = reward_formatting(completions)
     return [GAMMA_FORMAT * float(x) for x in base]
 
-# --- CHANGED: Model ID for Mamba ---
+def repetition_reward(completions: List[str], **kwargs,) -> List[float]:
+    """Wraps repetition reward with scaling."""
+    base = reward_repetition_penalty(completions)
+    return [GAMMA_REP * float(x) for x in base]
+
+# Model id, system prompt
 MODEL_ID = "state-spaces/mamba-1.4b-hf"
 
-# --- SYSTEM PROMPT ---
 # Note: Mamba 1.4b is a BASE model, not an instruct model. 
 # It might struggle to follow this format without an SFT (Supervised Fine-Tuning) stage first.
 SYSTEM_PROMPT = 'Answer the question using only the provided passages.\n\n' 
 SYSTEM_PROMPT += 'Verify your answer directly against the text, and cite only the passages you used in your final answer. Cite passages in the form [Title].\n\n' 
 SYSTEM_PROMPT += "Respond in the following format: \n\n <reasoning>\n...\n</reasoning>\n<answer>\n...\n</answer>\n\n"
-
-# [Insert your helper functions here: sort_by_num_distractors, make_grpo_dataset, etc.]
-# ... (Use the exact same data processing code as your previous script) ...
 
 def sort_by_num_distractors(df: pd.DataFrame, ascending: bool = True) -> pd.DataFrame:
     """
@@ -127,18 +132,16 @@ def main():
         max_rows=32, 
     )
 
-    # --- Tokenizer Setup ---
+    # Tokenizer setup
     print('loading tokenizer')
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-    
     # Mamba/GPT-NeoX specific padding fix
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
-    
     # GRPO requires left padding for generation
     tokenizer.padding_side = "left"
 
-    # --- Model Setup ---
+    # Model setup
     use_bf16 = torch.cuda.is_available() and torch.cuda.is_bf16_supported()
     if use_bf16:
         dtype = torch.bfloat16
@@ -158,7 +161,7 @@ def main():
     if hasattr(model, "config"):
         model.config.use_cache = False
 
-    # --- GRPO Config ---
+    # GRPO config
     training_args = GRPOConfig(
         output_dir="mamba-1.4b-rag-rl-grpo",
         num_train_epochs=1,
@@ -171,7 +174,7 @@ def main():
         bf16=use_bf16, 
         gradient_checkpointing=True,
         num_generations=4,               # Increased to get better variance for GRPO baseline
-        max_prompt_length=2048,          # Lowered to match Mamba training context
+        max_prompt_length=8192,          # Note: no errors for 2048, increased because that's what our data actually looks like
         max_completion_length=256,             
         scale_rewards="batch",          
         disable_dropout=True,

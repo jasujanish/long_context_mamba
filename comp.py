@@ -3,12 +3,10 @@ import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import gc
 
-# --- CONFIGURATION ---
-# UPDATED: Matches the model used in train_mamba.py
+
 BASE_MODEL_ID = "state-spaces/mamba-1.4b-hf"
 RL_MODEL_PATH = "mamba-1.4b-rag-rl-grpo" 
 
-# A prompt that requires citations to test behavior
 TEST_PROMPT = (
     "Answer the question using only the provided passages.\n\n"
     "Verify your answer directly against the text, and cite only the passages you used in your final answer. "
@@ -32,7 +30,6 @@ def generate_response(model_path, model_name_for_display):
     print(f"\n[{model_name_for_display}] Loading from {model_path}...")
     
     # Load Tokenizer
-    # trust_remote_code=True is often needed for Mamba architectures
     tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
