@@ -1,6 +1,8 @@
+import os
 from typing import List, Optional
 from rewards import reward_answer_correctness, reward_citation_accuracy, reward_formatting
-
+import transformers
+os.environ["TRANSFORMERS_TRUST_REMOTE_CODE"] = "1"
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from trl import GRPOTrainer, GRPOConfig
@@ -87,9 +89,9 @@ def build_reference(row):
 
     return "\n\n".join(docs)
 
-def make_grpo_dataset(parquet_path: str, max_rows: Optional[int] = None, curriculum: bool = True,) -> Dataset:
+def make_grpo_dataset(pickle_path: str, max_rows: Optional[int] = None, curriculum: bool = True,) -> Dataset:
     # Load in DF, sort based on curriculum
-    df = pd.read_parquet(parquet_path)
+    df = pd.read_pickle(pickle_path, compression='gzip')
     if max_rows is not None:
         df = df.head(max_rows)
     if curriculum:
@@ -123,12 +125,14 @@ def make_grpo_dataset(parquet_path: str, max_rows: Optional[int] = None, curricu
 
 def main():
     # Load data
+    print('loading data')
     train_dataset = make_grpo_dataset(
-        "rag_rl_training_data.parquet",
+        "rag_rl_training_data.pkl",
         max_rows=None,  # or small slice while debugging
     )
 
     # Tokenizer and model
+    print('loading tokenizer')
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
@@ -154,26 +158,53 @@ def main():
     if hasattr(model, "config"):
         model.config.use_cache = False
 
+
+    if hasattr(model.config, "architectures") and model.config.architectures:
+        cls_name = model.config.architectures[0]  # e.g. "NemotronHForCausalLM"
+        if not hasattr(transformers, cls_name):
+            setattr(transformers, cls_name, model.__class__)
+
     # GRPO config
+    # training_args = GRPOConfig(
+    #     output_dir="nemotron-rag-rl-grpo",
+    #     num_train_epochs=1,
+    #     per_device_train_batch_size=1,  # bump if VRAM allows
+    #     gradient_accumulation_steps=4,
+    #     learning_rate=5e-6,
+    #     logging_steps=10,
+    #     save_steps=200,
+    #     save_total_limit=3,
+    #     bf16=use_bf16,
+    #     gradient_checkpointing=True,
+    #     group_size=4,                   # completions per prompt
+    #     max_prompt_length=4096,
+    #     max_completion_length=512,
+    #     kl_coef=0.01,
+    #     scale_rewards="batch",          # generally more stable than per-group
+    #     disable_dropout=True,
+    # )
     training_args = GRPOConfig(
         output_dir="nemotron-rag-rl-grpo",
         num_train_epochs=1,
-        per_device_train_batch_size=1,  # bump if VRAM allows
+        per_device_train_batch_size=1,   # bump if VRAM allows
         gradient_accumulation_steps=4,
         learning_rate=5e-6,
         logging_steps=10,
         save_steps=200,
         save_total_limit=3,
-        bf16=use_bf16,
+        bf16=use_bf16,                   # or fp16=True if you prefer
         gradient_checkpointing=True,
-        group_size=4,                   # completions per prompt
+
+        # >>> key fixes here <<<
+        num_generations=4,               # was: group_size=4
         max_prompt_length=4096,
         max_completion_length=512,
-        kl_coef=0.01,
-        scale_rewards="batch",          # generally more stable than per-group
+        beta=0.01,                       # was: kl_coef=0.01
+        scale_rewards="batch",           # "group", "batch", or "none"
         disable_dropout=True,
     )
 
+    print('starting trainer')
     # GRPO trainer
     trainer = GRPOTrainer(
         model=model,
