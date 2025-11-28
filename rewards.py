@@ -6,9 +6,9 @@ from typing import List, Dict, Any
 from collections import Counter
 import string
 
-def get_citations(text: str) -> List[int]:
+def get_citations(text: str) -> List[str]:
     """Extracts citations like [1], [chill], [ chill ] from text."""
-    matches = re.findall(r'\[\s*(.+?)\s*\]', text)
+    matches = re.findall(r'\[\s*.*?\s*\]', text)
     return list(set(m for m in matches))
 
 def normalize_answer(s):
@@ -48,16 +48,21 @@ def f1_score(prediction, ground_truth):
 
     precision = num_same / len(prediction_tokens)
     recall = num_same / len(ground_truth_tokens)
-    f1 = 2 * precision * recall / (precision + recall)
+    if recall == 0 or precision == 0:
+        f1 = 0.0
+    else:
+        f1 = 2 * (precision * recall) / (precision + recall)
     return f1
     
 def reward_answer_correctness(completions: List[str], answers: List[str]) -> List[float]:
     """
-    R_ans: Computes Exact Match (EM) or F1 score between generated and ground truth answer.
+    R_ans = { 1.0 if exact match between completition and answer
+            { F1 score else
+    Rewards correct answers
     """
     rewards = []
     for completion, ground_truth in zip(completions, answers):
-        completion_clean = re.sub(r'\[\s*\d+\s*\]', '', completion).strip().lower()
+        completion_clean = re.sub(r'\[\s*.*?\s*\]', '', completion).strip().lower()
         ground_truth_clean = ground_truth.strip().lower()
         
         # Exact match reward
@@ -71,8 +76,8 @@ def reward_answer_correctness(completions: List[str], answers: List[str]) -> Lis
 
 def reward_citation_accuracy(completions: List[str], gold_ids: List[List[str]]) -> List[float]:
     """
-    R_cit: Rewards citing gold docs, Penalizes citing distractors and hallucinations.
-    Paper Logic: High Recall of Gold IDs + High Precision.
+    R_cit = f1 score between cited and gold ids
+    Rewards  citing gold docs, penalizes citing distractors and hallucinations.
     """
     rewards = []
     for completion, correct_ids in zip(completions, gold_ids):
@@ -94,41 +99,64 @@ def reward_citation_accuracy(completions: List[str], gold_ids: List[List[str]]) 
             precision = len(predicted_set.intersection(correct_set)) / len(predicted_set)
         
         # Combined F1-style score for citation
-        if recall and precision == 0:
+        if recall == 0 or precision == 0:
             f1 = 0.0
         else:
             f1 = 2 * (precision * recall) / (precision + recall)
-            
         rewards.append(f1)
         
     return rewards
 
-def _is_well_formatted(text: str, max_chars: int = 500) -> bool:
+def reward_repetition_penalty(completions: List[str]) -> List[float]:
     """
-    Check if the completion follows the required XML-style format and doesn't ramble
+    R_rep = { -1                                if no lines at all
+            { 0                                 if no repeated lines
+            { max(-(num repeated lines), -5.0)  else
+    Returns a penalty of -(num repeated lines) if any repeated lines are found in the completion.
     """
-    # required outer tags in correct order
-    if "<reasoning>" not in text or "</reasoning>" not in text:
-        return False
-    if "<answer>" not in text or "</answer>" not in text:
-        return False
-    r_open = text.find("<reasoning>")
-    r_close = text.find("</reasoning>")
-    a_open = text.find("<answer>")
-    a_close = text.find("</answer>")
-    if not (0 <= r_open < r_close < a_open < a_close):
-        return False
+    rewards = []
+    for completion in completions:
+        lines = [line.strip() for line in completion.split('\n') if line.strip()]
+        if not lines:
+            rewards.append(-1.0) 
+            continue
+        line_set = set(lines)
+        num_dupes = len(lines) - len(line_set)
+        if num_dupes == 0:
+            rewards.append(0.0)
+        else:
+            rewards.append(max(-1.0 * num_dupes, -5.0))        
+    return rewards
 
-    # check length
-    if len(text) > max_chars:
-        return False
-
-    return True
-
-def reward_formatting(completions: List[str], max_chars = 500) -> List[float]:
+def _is_well_formatted(text: str,) -> bool:
     """
-    R_formatting = { +gamma_format  if formatting is correct
-                   { -p         otherwise.
+    Check if the completion follows the required XML-style format
+    Returns:
+        -1.0 if completely incorrect
+        -0.5 if tags are present
+        0 if tags are in correct order
+        +0.5 if perfectly formatted (no extra text)
+    """
+    reward = -1.0
+    if "<reasoning>" in text and "</reasoning>" and "<answer>" in text and "</answer>" not in text:
+        reward+=0.5
+        r_open = text.find("<reasoning>")   
+        r_close = text.find("</reasoning>")
+        a_open = text.find("<answer>")
+        a_close = text.find("</answer>")
+        if 0 <= r_open < r_close < a_open < a_close:
+            reward += 0.5
+            pattern = r'^\s*<reasoning>.*?</reasoning>\s*<answer>.*?</answer>\s*$'
+            if re.fullmatch(pattern, text, flags=re.DOTALL):
+                reward += 0.5
+    return reward
+
+def reward_formatting(completions: List[str]) -> List[float]:
+    """
+    R_formatting =  { +0.5  if perfectly formatted (no extra text)
+                    { 0     if tags are in correct order
+                    { -0.5  if tags are present
+                    { -1.0  if completely incorrect
 
     Formatting is defined by:
       - Correct XML-style tags: <reasoning>...</reasoning><answer>...</answer>
@@ -136,8 +164,5 @@ def reward_formatting(completions: List[str], max_chars = 500) -> List[float]:
     """
     rewards = []
     for completion in completions:
-        if _is_well_formatted(completion, max_chars):
-            rewards.append(1.0)
-        else:
-            rewards.append(-1.0)
+        rewards.append(_is_well_formatted(completion))
     return rewards
