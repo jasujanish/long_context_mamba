@@ -171,7 +171,7 @@ def main():
         pickle_path="rag_rl_training_data.pkl",
         tokenizer=tokenizer,
         max_rows = None, 
-        sample =0.01, # taking a 0.01% sample 
+        sample = 0.01, # taking a 1% sample 
     )
 
     # Model setup
