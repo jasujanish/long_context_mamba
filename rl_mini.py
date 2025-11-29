@@ -6,17 +6,17 @@ from typing import List, Optional
 from rewards import reward_answer_correctness, reward_citation_accuracy, reward_formatting, reward_repetition_penalty
 import transformers
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, TrainerCallback
 from trl import GRPOTrainer, GRPOConfig
 import json
 import pandas as pd
 from datasets import Dataset
 
 # scaling constants
-GAMMA_ANSWER = 5.0
-GAMMA_CIT_CORRECT = 3.0
-GAMMA_FORMAT = 3.0
-GAMMA_REP = 1.0
+GAMMA_ANSWER        = 6.0
+GAMMA_CIT_CORRECT   = 3.0
+GAMMA_FORMAT        = 2.0
+GAMMA_REP           = 1.0
 
 # Max prompt length
 MAX_PROMPT_LENGTH = 8192
@@ -50,6 +50,19 @@ MODEL_ID = "state-spaces/mamba-1.4b-hf"
 SYSTEM_PROMPT = 'Answer the question using only the provided passages.\n\n' 
 SYSTEM_PROMPT += 'Verify your answer directly against the text, and cite only the passages you used in your final answer. Cite passages in the form [Title].\n\n' 
 SYSTEM_PROMPT += "Respond in the following format: \n\n <reasoning>\n...\n</reasoning>\n<answer>\n...\n</answer>\n\n"
+
+class LogToFileCallback(TrainerCallback):
+    def __init__(self, output_file):
+        self.output_file = output_file
+        # Create/Clear the file when we start
+        with open(self.output_file, "w") as f:
+            f.write("Training Logs\n")
+
+    def on_log(self, args, state, control, logs=None, **kwargs):
+        # This function runs whenever the trainer logs metrics (logging_steps)
+        if logs:
+            with open(self.output_file, "a") as f:
+                f.write(json.dumps(logs) + "\n")
 
 def sort_by_num_distractors(df: pd.DataFrame, ascending: bool = True) -> pd.DataFrame:
     """
@@ -94,11 +107,13 @@ def build_reference(row):
 
     return "\n\n".join(docs)
 
-def make_grpo_dataset(pickle_path: str, tokenizer: AutoTokenizer, max_rows: Optional[int] = None, curriculum: bool = True) -> Dataset:
+def make_grpo_dataset(pickle_path: str, tokenizer: AutoTokenizer, max_rows: Optional[int] = None, curriculum: bool = True, sample: Optional[float] = None) -> Dataset:
     # Load in DF, sort based on curriculum
     df = pd.read_pickle(pickle_path, compression='gzip')
     if max_rows is not None:
         df = df.head(max_rows)
+    if sample is not None:
+        df = df.sample(frac=sample, random_state=711).reset_index(drop=True)
     if curriculum:
         df = sort_by_num_distractors(df, ascending=True)
     else:
@@ -155,7 +170,8 @@ def main():
     train_dataset = make_grpo_dataset(
         pickle_path="rag_rl_training_data.pkl",
         tokenizer=tokenizer,
-        max_rows=32, 
+        max_rows = None, 
+        sample =0.01, # taking a 0.01% sample 
     )
 
     # Model setup
@@ -185,25 +201,28 @@ def main():
         per_device_train_batch_size=1, 
         gradient_accumulation_steps=4,
         learning_rate=1e-6,              # Lowered LR for Mamba stability
-        logging_steps=10,
+        logging_steps=100,
         save_steps=200,
         save_total_limit=3,
         bf16=use_bf16, 
         gradient_checkpointing=True,
         num_generations=4,                      # Increased to get better variance for GRPO baseline
         max_prompt_length=MAX_PROMPT_LENGTH,    # Note: no errors for 2048, increased because that's what our data actually looks like
+        beta=0.01,
         max_completion_length=256,             
         scale_rewards="batch",          
         disable_dropout=True,
     )
 
     print('starting trainer')
+    file_logger = LogToFileCallback("training_logs.txt")
     trainer = GRPOTrainer(
         model=model,
         args=training_args,
         train_dataset=train_dataset,
         processing_class=tokenizer,
-        reward_funcs=[answer_reward, citation_reward, formatting_reward],
+        reward_funcs=[answer_reward, citation_reward, formatting_reward, repetition_reward],
+        callbacks=[file_logger],
     )
 
     trainer.train()
