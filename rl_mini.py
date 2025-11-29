@@ -1,3 +1,4 @@
+print('file started')
 import os
 os.environ["TRANSFORMERS_TRUST_REMOTE_CODE"] = "1"
 from typing import List, Optional
@@ -16,6 +17,9 @@ GAMMA_ANSWER = 5.0
 GAMMA_CIT_CORRECT = 3.0
 GAMMA_FORMAT = 3.0
 GAMMA_REP = 1.0
+
+# Max prompt length
+MAX_PROMPT_LENGTH = 8192
 
 # Reward wrappers
 def answer_reward(completions: List[str], answer: List[str], **kwargs,) -> List[float]:
@@ -90,7 +94,7 @@ def build_reference(row):
 
     return "\n\n".join(docs)
 
-def make_grpo_dataset(pickle_path: str, max_rows: Optional[int] = None, curriculum: bool = True,) -> Dataset:
+def make_grpo_dataset(pickle_path: str, tokenizer: AutoTokenizer, max_rows: Optional[int] = None, curriculum: bool = True) -> Dataset:
     # Load in DF, sort based on curriculum
     df = pd.read_pickle(pickle_path, compression='gzip')
     if max_rows is not None:
@@ -119,19 +123,24 @@ def make_grpo_dataset(pickle_path: str, max_rows: Optional[int] = None, curricul
 
     df["prompt"] = df.apply(_build_prompt, axis=1)
 
-    # Only keep columns we need, GRPOTrainer should have "prompt"
+    print(f"Dataset size before filtering: {len(df)}")
+    
+    # Calculate token lengths
+    # We use a simple lambda with the tokenizer. 
+    # Note: We assume truncation=False here to get the real length.
+    df["token_len"] = df["prompt"].apply(lambda x: len(tokenizer(x, add_special_tokens=False)["input_ids"]))
+    
+    # Filter: Keep only rows where token_len <= max_prompt_length
+    df = df[df["token_len"] <= MAX_PROMPT_LENGTH]
+    
+    print(f"Dataset size after filtering (> {MAX_PROMPT_LENGTH} removed): {len(df)}")
+
+    # Only keep columns we need
     df = df[["prompt", "answer", "gold_ids"]]
 
     return Dataset.from_pandas(df, preserve_index=False)
 
 def main():
-    # Load data
-    print('loading data')
-    train_dataset = make_grpo_dataset(
-        "rag_rl_training_data.pkl",
-        max_rows=32, 
-    )
-
     # Tokenizer setup
     print('loading tokenizer')
     tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
@@ -140,6 +149,14 @@ def main():
         tokenizer.pad_token = tokenizer.eos_token
     # GRPO requires left padding for generation
     tokenizer.padding_side = "left"
+
+    # Load data
+    print('loading data')
+    train_dataset = make_grpo_dataset(
+        pickle_path="rag_rl_training_data.pkl",
+        tokenizer=tokenizer,
+        max_rows=32, 
+    )
 
     # Model setup
     use_bf16 = torch.cuda.is_available() and torch.cuda.is_bf16_supported()
@@ -173,8 +190,8 @@ def main():
         save_total_limit=3,
         bf16=use_bf16, 
         gradient_checkpointing=True,
-        num_generations=4,               # Increased to get better variance for GRPO baseline
-        max_prompt_length=8192,          # Note: no errors for 2048, increased because that's what our data actually looks like
+        num_generations=4,                      # Increased to get better variance for GRPO baseline
+        max_prompt_length=MAX_PROMPT_LENGTH,    # Note: no errors for 2048, increased because that's what our data actually looks like
         max_completion_length=256,             
         scale_rewards="batch",          
         disable_dropout=True,
