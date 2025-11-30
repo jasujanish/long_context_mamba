@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
     # Load model, tokenizer
     print("Loading model and tokenizer")
-    model_path = "mamba-1.4b-rag-rl-grpo-random/checkpoint-1600/"
+    model_path = "state-spaces/mamba-1.4b-hf"
     all_data = []
 
     tok = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
@@ -113,7 +113,7 @@ if __name__ == "__main__":
     model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True, torch_dtype=dtype).to(device)
     model.eval()
 
-    results_json_path = f"full_results_{model_path}.json"
+    results_json_path = f"full_results_base.json"
     print(f'Starting {model_path}')
     for benchmark in benchmarks:
         metrics = {"f1": 0, "precision": 0, "recall": 0, "total": 0, "context_length": 0}
