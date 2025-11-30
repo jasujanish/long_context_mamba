@@ -1,0 +1,1202 @@
+[
+    {
+        "context_length": 1726,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11030,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.019607843137254905,
+        "precision": 0.009966777408637873,
+        "recall": 0.6,
+        "total": 1
+    },
+    {
+        "context_length": 8030,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.27272727272727276,
+        "precision": 0.16666666666666666,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 11783,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.45161290322580644,
+        "precision": 0.4117647058823529,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 7728,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.006802721088435373,
+        "precision": 0.0035587188612099642,
+        "recall": 0.07692307692307693,
+        "total": 1
+    },
+    {
+        "context_length": 10414,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8183,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.012048192771084336,
+        "precision": 0.006211180124223602,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 3150,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.15384615384615385,
+        "precision": 0.08333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2106,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14639,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.4210526315789473,
+        "precision": 0.2857142857142857,
+        "recall": 0.8,
+        "total": 1
+    },
+    {
+        "context_length": 9257,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.04361370716510903,
+        "precision": 0.023178807947019868,
+        "recall": 0.3684210526315789,
+        "total": 1
+    },
+    {
+        "context_length": 9997,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.004329004329004329,
+        "precision": 0.002188183807439825,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 14644,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.40909090909090906,
+        "precision": 0.2571428571428571,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8183,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9823,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.044444444444444446,
+        "precision": 0.022727272727272728,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2950,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7974,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.23529411764705882,
+        "precision": 0.14285714285714285,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 8461,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.014705882352941175,
+        "precision": 0.007751937984496124,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 10221,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.029339853300733493,
+        "precision": 0.015,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 3912,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2581,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.9600000000000001,
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7508,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.032679738562091505,
+        "precision": 0.016611295681063124,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5702,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5246,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.4444444444444445,
+        "precision": 0.2857142857142857,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10962,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.08823529411764706,
+        "precision": 0.058823529411764705,
+        "recall": 0.17647058823529413,
+        "total": 1
+    },
+    {
+        "context_length": 6349,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.22222222222222224,
+        "precision": 0.13114754098360656,
+        "recall": 0.7272727272727273,
+        "total": 1
+    },
+    {
+        "context_length": 9212,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12937,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8089,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8720,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3944,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5997,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.30303030303030304,
+        "precision": 0.18181818181818182,
+        "recall": 0.9090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 7859,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.25352112676056343,
+        "precision": 0.15789473684210525,
+        "recall": 0.6428571428571429,
+        "total": 1
+    },
+    {
+        "context_length": 5942,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.014354066985645933,
+        "precision": 0.007444168734491315,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 7043,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.3870967741935484,
+        "precision": 0.24,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6826,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.058823529411764705,
+        "precision": 0.04,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 1954,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.15384615384615385,
+        "precision": 0.08333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8728,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5465,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.06779661016949151,
+        "precision": 0.03508771929824561,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3920,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4324,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.016949152542372885,
+        "precision": 0.009174311926605505,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 2079,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.8,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6099,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9539,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8486,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0103359173126615,
+        "precision": 0.00546448087431694,
+        "recall": 0.09523809523809523,
+        "total": 1
+    },
+    {
+        "context_length": 9844,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.43243243243243246,
+        "precision": 0.2857142857142857,
+        "recall": 0.8888888888888888,
+        "total": 1
+    },
+    {
+        "context_length": 6343,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.186046511627907,
+        "precision": 0.10666666666666667,
+        "recall": 0.7272727272727273,
+        "total": 1
+    },
+    {
+        "context_length": 7720,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3145,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.7777777777777778,
+        "precision": 0.6363636363636364,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4739,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.5,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2952,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.42857142857142855,
+        "precision": 0.2727272727272727,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 14226,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.5263157894736842,
+        "precision": 0.37037037037037035,
+        "recall": 0.9090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 8890,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.16666666666666666,
+        "precision": 0.09230769230769231,
+        "recall": 0.8571428571428571,
+        "total": 1
+    },
+    {
+        "context_length": 5032,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.8,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3336,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.2857142857142857,
+        "precision": 0.16666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2586,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.7692307692307693,
+        "precision": 0.625,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4772,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2955,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1333,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6067,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.024390243902439025,
+        "precision": 0.014705882352941176,
+        "recall": 0.07142857142857142,
+        "total": 1
+    },
+    {
+        "context_length": 12966,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11756,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.036745406824146974,
+        "precision": 0.01871657754010695,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3014,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.9523809523809523,
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3261,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.5405405405405405,
+        "precision": 0.38461538461538464,
+        "recall": 0.9090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 1831,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8501,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.75,
+        "precision": 0.75,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 10803,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.3636363636363636,
+        "precision": 0.2222222222222222,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8075,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3895,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.8,
+        "recall": 0.5714285714285714,
+        "total": 1
+    },
+    {
+        "context_length": 5610,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.3333333333333333,
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 2085,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.6190476190476191,
+        "precision": 0.52,
+        "recall": 0.7647058823529411,
+        "total": 1
+    },
+    {
+        "context_length": 1691,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.9600000000000001,
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8936,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.048780487804878044,
+        "precision": 0.02608695652173913,
+        "recall": 0.375,
+        "total": 1
+    },
+    {
+        "context_length": 8971,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.09999999999999999,
+        "precision": 0.06349206349206349,
+        "recall": 0.23529411764705882,
+        "total": 1
+    },
+    {
+        "context_length": 12962,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15545,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3153,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.8,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6294,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.26666666666666666,
+        "precision": 0.17142857142857143,
+        "recall": 0.6,
+        "total": 1
+    },
+    {
+        "context_length": 4751,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.07365439093484419,
+        "precision": 0.038348082595870206,
+        "recall": 0.9285714285714286,
+        "total": 1
+    },
+    {
+        "context_length": 7514,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.018126888217522657,
+        "precision": 0.009287925696594427,
+        "recall": 0.375,
+        "total": 1
+    },
+    {
+        "context_length": 8525,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0851063829787234,
+        "precision": 0.045662100456621,
+        "recall": 0.625,
+        "total": 1
+    },
+    {
+        "context_length": 7229,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.006134969325153375,
+        "precision": 0.003125,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 5062,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.016129032258064516,
+        "precision": 0.008733624454148471,
+        "recall": 0.10526315789473684,
+        "total": 1
+    },
+    {
+        "context_length": 1729,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5132,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.038356164383561646,
+        "precision": 0.02,
+        "recall": 0.4666666666666667,
+        "total": 1
+    },
+    {
+        "context_length": 12798,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1729,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2578,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.34146341463414637,
+        "precision": 0.20588235294117646,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5995,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.43478260869565216,
+        "precision": 0.3125,
+        "recall": 0.7142857142857143,
+        "total": 1
+    },
+    {
+        "context_length": 7823,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.5945945945945945,
+        "precision": 0.4230769230769231,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 14638,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 15984,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.10526315789473684,
+        "precision": 0.05555555555555555,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9498,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.21212121212121215,
+        "precision": 0.11864406779661017,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3254,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.4444444444444444,
+        "precision": 0.3333333333333333,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 14135,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.010230179028132991,
+        "precision": 0.005235602094240838,
+        "recall": 0.2222222222222222,
+        "total": 1
+    },
+    {
+        "context_length": 6984,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.027777777777777776,
+        "precision": 0.014705882352941176,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 4324,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10967,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.08,
+        "precision": 0.043478260869565216,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 3579,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13121,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6972,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.09523809523809523,
+        "precision": 0.05128205128205128,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 6304,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8721,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5022,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.8,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9820,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.17857142857142858,
+        "precision": 0.10204081632653061,
+        "recall": 0.7142857142857143,
+        "total": 1
+    },
+    {
+        "context_length": 9799,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.21951219512195122,
+        "precision": 0.13043478260869565,
+        "recall": 0.6923076923076923,
+        "total": 1
+    },
+    {
+        "context_length": 8786,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.020460358056265983,
+        "precision": 0.010638297872340425,
+        "recall": 0.26666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 3899,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.14705882352941174,
+        "precision": 0.08064516129032258,
+        "recall": 0.8333333333333334,
+        "total": 1
+    },
+    {
+        "context_length": 8206,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.010075566750629723,
+        "precision": 0.005221932114882507,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 9208,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8755,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3022,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.3636363636363636,
+        "precision": 0.2222222222222222,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8287,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6072,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9998,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10477,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.911764705882353,
+        "precision": 0.8378378378378378,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 13407,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.021333333333333333,
+        "precision": 0.011142061281337047,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 9580,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.13043478260869562,
+        "precision": 0.21428571428571427,
+        "recall": 0.09375,
+        "total": 1
+    },
+    {
+        "context_length": 9301,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.2,
+        "precision": 0.125,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 3481,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2888,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.888888888888889,
+        "precision": 0.8,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6962,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.46153846153846156,
+        "precision": 0.35294117647058826,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 3322,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.8750000000000001,
+        "precision": 0.7777777777777778,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5465,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.06779661016949151,
+        "precision": 0.03508771929824561,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7044,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9257,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5292,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.21428571428571425,
+        "precision": 0.12,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7039,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7402,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8717,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3328,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.05555555555555556,
+        "precision": 0.02857142857142857,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3328,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.7142857142857143,
+        "recall": 0.625,
+        "total": 1
+    },
+    {
+        "context_length": 5850,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11186,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.02666666666666667,
+        "precision": 0.015384615384615385,
+        "recall": 0.1,
+        "total": 1
+    },
+    {
+        "context_length": 11343,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.9655172413793104,
+        "precision": 0.9333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10956,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.425531914893617,
+        "precision": 0.3225806451612903,
+        "recall": 0.625,
+        "total": 1
+    },
+    {
+        "context_length": 8800,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10487,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.2222222222222222,
+        "precision": 0.125,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5950,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.01507537688442211,
+        "precision": 0.007731958762886598,
+        "recall": 0.3,
+        "total": 1
+    },
+    {
+        "context_length": 7402,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.028070175438596492,
+        "precision": 0.014814814814814815,
+        "recall": 0.26666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 5034,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.48275862068965514,
+        "precision": 0.35,
+        "recall": 0.7777777777777778,
+        "total": 1
+    },
+    {
+        "context_length": 3259,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 11276,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.010899182561307903,
+        "precision": 0.005698005698005698,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 3315,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.9,
+        "precision": 0.8181818181818182,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 1326,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9134,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.27956989247311825,
+        "precision": 0.17105263157894737,
+        "recall": 0.7647058823529411,
+        "total": 1
+    },
+    {
+        "context_length": 2578,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.5882352941176471,
+        "precision": 0.4166666666666667,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8721,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7832,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9997,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.008298755186721992,
+        "precision": 0.0042643923240938165,
+        "recall": 0.15384615384615385,
+        "total": 1
+    }
+]

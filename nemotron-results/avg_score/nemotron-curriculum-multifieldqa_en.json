@@ -1,0 +1,10 @@
+{
+    "multifieldqa_en.jsonl": {
+        "avg_context_length": 7159.78,
+        "avg_f1": 0.2246820645926963,
+        "avg_precision": 0.18165286719532267,
+        "avg_recall": 0.4701482396315988,
+        "total_examples": 150,
+        "num_entries": 150
+    }
+}
