@@ -2,3 +2,4 @@
 *.pem
 *.parquet
 *.json
+.DS_Store
