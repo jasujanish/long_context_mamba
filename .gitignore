@@ -2,5 +2,6 @@
 *.pem
 *.parquet
 *.json
+.DS_Store
 !full_results_random.json
 !full_results_curriculum.json
