@@ -1,7 +1,7 @@
 import json
 from collections import defaultdict
 
-files = ["full_results_curriculum.json", "full_results_random.json"]
+files = ["full_results_base.json", "full_results_curriculum.json", "full_results_random.json"]
 for file in files:
     # Setup
     with open(file, "r") as f:
@@ -39,6 +39,6 @@ for file in files:
         }
 
     # Pretty print
-    print(f'Results for {file}')
+    print(f'Stats for {file}')
     print(json.dumps(results, indent=4))
     print('-'*50)

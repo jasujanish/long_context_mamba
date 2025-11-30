@@ -1,0 +1,6002 @@
+[
+    {
+        "context_length": 7234,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7130,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6401,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10937,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7243,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7402,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7523,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11108,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5939,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7489,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14924,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5520,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.013157894736842106,
+        "precision": 0.006711409395973154,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 2417,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5045,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006535947712418301,
+        "precision": 0.0033003300330033004,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 6544,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14811,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2699,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.014598540145985401,
+        "precision": 0.007407407407407408,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 8496,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1191,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5334,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4009,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10760,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12632,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8609,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9163,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1677,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4904,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6008,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6939,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7187,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6761,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006802721088435375,
+        "precision": 0.003472222222222222,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 8376,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16066,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4842,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6235,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4691,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6753,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4305,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9614,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6977,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7150,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3858,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11961,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8131,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5968,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9463,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.07142857142857142,
+        "precision": 0.0375,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 6198,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5746,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1904,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4961,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14872,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7543,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5516,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5736,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5537,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.015267175572519083,
+        "precision": 0.007751937984496124,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 4350,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6429,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10211,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3405,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4412,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11011,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3681,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3209,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.009345794392523364,
+        "precision": 0.0047169811320754715,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 7559,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2213,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7577,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0057971014492753615,
+        "precision": 0.0029239766081871343,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4729,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4894,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6022,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4850,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6324,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7586,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6673,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.011235955056179775,
+        "precision": 0.005747126436781609,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 1031,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5700,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4323,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.013559322033898305,
+        "precision": 0.006896551724137931,
+        "recall": 0.4,
+        "total": 1
+    },
+    {
+        "context_length": 12656,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5793,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15976,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5625,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5535,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6883,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6656,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8329,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5269,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14975,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8253,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8227,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13585,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4021,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.00796812749003984,
+        "precision": 0.004,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8981,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9029,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7074,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.025,
+        "precision": 0.012903225806451613,
+        "recall": 0.4,
+        "total": 1
+    },
+    {
+        "context_length": 15728,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5730,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7857,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11727,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.010309278350515462,
+        "precision": 0.005208333333333333,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 2928,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14314,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5185,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6568,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3065,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5663,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6769,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14201,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5234,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.00784313725490196,
+        "precision": 0.004032258064516129,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 2688,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4695,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5549,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4175,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6786,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3791,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6210,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9324,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6886,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10377,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4758,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7891,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2085,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1905,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4197,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5625,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4533,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6840,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8072,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7598,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14742,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4208,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6431,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5364,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14003,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5259,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5438,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.01646090534979424,
+        "precision": 0.008333333333333333,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 4589,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3636,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6529,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7202,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13229,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6620,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.008695652173913044,
+        "precision": 0.0043859649122807015,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 5377,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6313,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6989,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11096,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4650,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6925,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9931,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4973,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4301,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0057306590257879654,
+        "precision": 0.0029850746268656717,
+        "recall": 0.07142857142857142,
+        "total": 1
+    },
+    {
+        "context_length": 16509,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6685,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4978,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13417,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6150,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12852,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11931,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7121,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8201,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16574,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6181,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9613,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14579,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4396,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9999,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6325,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4560,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6167,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4560,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.020202020202020204,
+        "precision": 0.010362694300518135,
+        "recall": 0.4,
+        "total": 1
+    },
+    {
+        "context_length": 4485,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10502,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5516,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5302,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7617,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.00806451612903226,
+        "precision": 0.004081632653061225,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 14449,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6063,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12859,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9211,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13201,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11182,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5846,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5488,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5826,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7236,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4807,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6504,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7719,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5057,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3187,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6117,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1296,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16170,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9046,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1281,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16251,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6301,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6003,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.009852216748768473,
+        "precision": 0.005076142131979695,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 6678,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12717,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.007434944237918216,
+        "precision": 0.003787878787878788,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 5156,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.007352941176470587,
+        "precision": 0.0037174721189591076,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4805,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5589,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1490,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10485,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8164,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12132,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7810,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11000,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8036,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.011049723756906079,
+        "precision": 0.005681818181818182,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 3073,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1832,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13181,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8882,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10059,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13186,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8036,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9845,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2886,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8217,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9025,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9780,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3960,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2363,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7364,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5811,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5193,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.007380073800738007,
+        "precision": 0.003745318352059925,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 10421,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6407,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.005479452054794521,
+        "precision": 0.002824858757062147,
+        "recall": 0.09090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 9415,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13500,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7774,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8886,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3965,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6371,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7945,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5881,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0066006600660066,
+        "precision": 0.003472222222222222,
+        "recall": 0.06666666666666667,
+        "total": 1
+    },
+    {
+        "context_length": 7139,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.07407407407407408,
+        "precision": 0.043478260869565216,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 6991,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2033,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9057,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6077,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3967,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4097,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2173,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.017857142857142856,
+        "precision": 0.009259259259259259,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 6477,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9566,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8265,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.016713091922005572,
+        "precision": 0.008875739644970414,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 8555,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6401,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.016438356164383564,
+        "precision": 0.00847457627118644,
+        "recall": 0.2727272727272727,
+        "total": 1
+    },
+    {
+        "context_length": 7802,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3068,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.007434944237918214,
+        "precision": 0.003816793893129771,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 4871,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2889,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15096,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8731,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4779,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3114,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2368,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4491,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2886,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1402,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.03278688524590164,
+        "precision": 0.016778523489932886,
+        "recall": 0.7142857142857143,
+        "total": 1
+    },
+    {
+        "context_length": 7094,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13482,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12203,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2754,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3326,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1889,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8742,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10783,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8269,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3969,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.005586592178770949,
+        "precision": 0.002849002849002849,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 5479,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2180,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1449,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.061224489795918366,
+        "precision": 0.03488372093023256,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 9626,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8497,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.06896551724137931,
+        "precision": 0.03821656050955414,
+        "recall": 0.35294117647058826,
+        "total": 1
+    },
+    {
+        "context_length": 13478,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14187,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3077,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6417,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4789,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.006756756756756755,
+        "precision": 0.0035460992907801418,
+        "recall": 0.07142857142857142,
+        "total": 1
+    },
+    {
+        "context_length": 7371,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0425531914893617,
+        "precision": 0.02564102564102564,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 7786,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.05454545454545454,
+        "precision": 0.029411764705882353,
+        "recall": 0.375,
+        "total": 1
+    },
+    {
+        "context_length": 7149,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4622,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.015748031496062992,
+        "precision": 0.00851063829787234,
+        "recall": 0.10526315789473684,
+        "total": 1
+    },
+    {
+        "context_length": 1494,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4972,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.015957446808510637,
+        "precision": 0.008310249307479225,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 11506,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1493,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.1111111111111111,
+        "precision": 0.06666666666666667,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 2360,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6369,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7131,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13180,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15426,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9372,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3319,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13833,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8209,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4098,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10515,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4875,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13292,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7056,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5659,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8871,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4770,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9842,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9941,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9060,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3974,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.009852216748768473,
+        "precision": 0.005076142131979695,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 8176,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9413,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9134,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2760,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7896,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7099,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10060,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9737,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13249,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9573,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8775,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3839,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2827,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.006756756756756758,
+        "precision": 0.0035211267605633804,
+        "recall": 0.08333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 7005,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.00625,
+        "precision": 0.003215434083601286,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 3108,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.16,
+        "precision": 0.18181818181818182,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 6077,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7140,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.013071895424836602,
+        "precision": 0.006756756756756757,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 8879,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5107,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7136,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6358,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8867,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3110,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3110,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.15384615384615385,
+        "precision": 0.2,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 7179,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11168,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12399,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10504,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8601,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9747,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5889,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0055401662049861505,
+        "precision": 0.002849002849002849,
+        "recall": 0.1,
+        "total": 1
+    },
+    {
+        "context_length": 7327,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.018750000000000003,
+        "precision": 0.009836065573770493,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 4778,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.006944444444444444,
+        "precision": 0.0035842293906810036,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 3324,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11266,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3101,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.19999999999999998,
+        "precision": 0.18181818181818182,
+        "recall": 0.2222222222222222,
+        "total": 1
+    },
+    {
+        "context_length": 1395,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.014084507042253521,
+        "precision": 0.007407407407407408,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 8809,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2360,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8725,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7137,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10059,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.004901960784313725,
+        "precision": 0.002531645569620253,
+        "recall": 0.07692307692307693,
+        "total": 1
+    },
+    {
+        "context_length": 3984,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3297,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4423,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2991,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4489,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5649,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5622,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6584,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3446,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.01,
+        "precision": 0.0053475935828877,
+        "recall": 0.07692307692307693,
+        "total": 1
+    },
+    {
+        "context_length": 5413,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4626,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3270,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3317,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8462,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.01212121212121212,
+        "precision": 0.006711409395973154,
+        "recall": 0.0625,
+        "total": 1
+    },
+    {
+        "context_length": 4756,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 18252,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15920,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5310,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5068,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6030,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3782,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7805,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5313,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.01954397394136808,
+        "precision": 0.01,
+        "recall": 0.42857142857142855,
+        "total": 1
+    },
+    {
+        "context_length": 5400,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7535,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4966,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3079,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9184,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2886,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5381,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3952,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.04060913705583756,
+        "precision": 0.022284122562674095,
+        "recall": 0.22857142857142856,
+        "total": 1
+    },
+    {
+        "context_length": 4788,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07407407407407407,
+        "precision": 0.04854368932038835,
+        "recall": 0.15625,
+        "total": 1
+    },
+    {
+        "context_length": 5784,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7798,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4601,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03846153846153846,
+        "precision": 0.02040816326530612,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 10812,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3652,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2585,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5697,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.011299435028248586,
+        "precision": 0.0058309037900874635,
+        "recall": 0.18181818181818182,
+        "total": 1
+    },
+    {
+        "context_length": 5701,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.005714285714285715,
+        "precision": 0.002932551319648094,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 7066,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0169971671388102,
+        "precision": 0.008955223880597015,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 5988,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2673,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4309,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6973,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.017341040462427747,
+        "precision": 0.00967741935483871,
+        "recall": 0.08333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4734,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2496,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4389,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3458,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5676,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3639,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6000,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3997,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1965,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 19940,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5244,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.007194244604316547,
+        "precision": 0.0037593984962406013,
+        "recall": 0.08333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4847,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 21696,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6799,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.018633540372670808,
+        "precision": 0.010033444816053512,
+        "recall": 0.13043478260869565,
+        "total": 1
+    },
+    {
+        "context_length": 3142,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3624,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03558718861209964,
+        "precision": 0.020080321285140562,
+        "recall": 0.15625,
+        "total": 1
+    },
+    {
+        "context_length": 4421,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3270,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5315,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3983,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2569,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5170,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10395,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3643,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.009132420091324202,
+        "precision": 0.004739336492890996,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 3079,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5713,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2575,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6929,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03246753246753247,
+        "precision": 0.018115942028985508,
+        "recall": 0.15625,
+        "total": 1
+    },
+    {
+        "context_length": 9940,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5787,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3112,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4023,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5305,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2243,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3773,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6046,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4378,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3359,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4390,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.02952029520295203,
+        "precision": 0.01556420233463035,
+        "recall": 0.2857142857142857,
+        "total": 1
+    },
+    {
+        "context_length": 5781,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5335,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2559,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5253,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.006230529595015576,
+        "precision": 0.0034965034965034965,
+        "recall": 0.02857142857142857,
+        "total": 1
+    },
+    {
+        "context_length": 6610,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2192,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.17073170731707318,
+        "precision": 0.09333333333333334,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5655,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6312,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2561,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3764,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2,
+        "precision": 0.5,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 4925,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2133,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2191,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5963,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0091324200913242,
+        "precision": 0.0047169811320754715,
+        "recall": 0.14285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 6708,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.011904761904761904,
+        "precision": 0.0061162079510703364,
+        "recall": 0.2222222222222222,
+        "total": 1
+    },
+    {
+        "context_length": 3270,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7532,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5951,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3137,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2091,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2464,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3954,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.015957446808510637,
+        "precision": 0.008356545961002786,
+        "recall": 0.17647058823529413,
+        "total": 1
+    },
+    {
+        "context_length": 6205,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.00617283950617284,
+        "precision": 0.003125,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 2241,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.018433179723502304,
+        "precision": 0.0106951871657754,
+        "recall": 0.06666666666666667,
+        "total": 1
+    },
+    {
+        "context_length": 4489,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3980,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5645,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5171,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7813,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10508,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.026845637583892617,
+        "precision": 0.0196078431372549,
+        "recall": 0.0425531914893617,
+        "total": 1
+    },
+    {
+        "context_length": 3178,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3625,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3781,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3173,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9183,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4734,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4489,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3937,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3626,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5070,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5804,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5717,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03,
+        "precision": 0.01643835616438356,
+        "recall": 0.17142857142857143,
+        "total": 1
+    },
+    {
+        "context_length": 3325,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8015,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.012195121951219511,
+        "precision": 0.08333333333333333,
+        "recall": 0.006578947368421052,
+        "total": 1
+    },
+    {
+        "context_length": 6800,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.02222222222222222,
+        "precision": 0.012195121951219513,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 3951,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2953,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3342,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4733,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8197,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4309,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.005434782608695652,
+        "precision": 0.0027624309392265192,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 4971,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6277,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.005681818181818181,
+        "precision": 0.00303951367781155,
+        "recall": 0.043478260869565216,
+        "total": 1
+    },
+    {
+        "context_length": 2652,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3298,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3624,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.04444444444444444,
+        "precision": 0.023255813953488372,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 7348,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5464,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.01910828025477707,
+        "precision": 0.011673151750972763,
+        "recall": 0.05263157894736842,
+        "total": 1
+    },
+    {
+        "context_length": 5848,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.01084010840108401,
+        "precision": 0.005681818181818182,
+        "recall": 0.11764705882352941,
+        "total": 1
+    },
+    {
+        "context_length": 5309,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4387,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0075187969924812035,
+        "precision": 0.0038910505836575876,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 5712,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.005277044854881266,
+        "precision": 0.0027397260273972603,
+        "recall": 0.07142857142857142,
+        "total": 1
+    },
+    {
+        "context_length": 2454,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.1346153846153846,
+        "precision": 0.08823529411764706,
+        "recall": 0.28378378378378377,
+        "total": 1
+    },
+    {
+        "context_length": 3351,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.04687499999999999,
+        "precision": 0.031914893617021274,
+        "recall": 0.08823529411764706,
+        "total": 1
+    },
+    {
+        "context_length": 6500,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2992,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2718,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5705,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03555555555555556,
+        "precision": 0.021917808219178082,
+        "recall": 0.09411764705882353,
+        "total": 1
+    },
+    {
+        "context_length": 3387,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.01606425702811245,
+        "precision": 0.008368200836820083,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 5263,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4210,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5919,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3874,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0061162079510703364,
+        "precision": 0.0032258064516129032,
+        "recall": 0.058823529411764705,
+        "total": 1
+    },
+    {
+        "context_length": 5893,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6510,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2761,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.014814814814814815,
+        "precision": 0.007692307692307693,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 4942,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5844,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03424657534246575,
+        "precision": 0.01893939393939394,
+        "recall": 0.17857142857142858,
+        "total": 1
+    },
+    {
+        "context_length": 2617,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2847,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2795,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5142,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3188,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5382,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.020725388601036267,
+        "precision": 0.011235955056179775,
+        "recall": 0.13333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4370,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0245398773006135,
+        "precision": 0.013377926421404682,
+        "recall": 0.14814814814814814,
+        "total": 1
+    },
+    {
+        "context_length": 3938,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6670,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5310,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.005102040816326531,
+        "precision": 0.0026666666666666666,
+        "recall": 0.058823529411764705,
+        "total": 1
+    },
+    {
+        "context_length": 3136,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3747,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6034,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6314,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6313,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4966,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8929,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0261437908496732,
+        "precision": 0.015267175572519083,
+        "recall": 0.09090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 2713,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2924,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6200,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.047477744807121657,
+        "precision": 0.025,
+        "recall": 0.47058823529411764,
+        "total": 1
+    },
+    {
+        "context_length": 5256,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.006230529595015576,
+        "precision": 0.0033444816053511705,
+        "recall": 0.045454545454545456,
+        "total": 1
+    },
+    {
+        "context_length": 5315,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6676,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3659,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3189,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3701,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3999,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5069,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8064,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4604,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.03846153846153846,
+        "precision": 0.02040816326530612,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4387,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4191,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5636,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5964,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9941,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5963,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.004424778761061947,
+        "precision": 0.0022522522522522522,
+        "recall": 0.125,
+        "total": 1
+    },
+    {
+        "context_length": 2511,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6802,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11504,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.18181818181818182,
+        "precision": 0.125,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 16196,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16100,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16912,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14813,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14529,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16173,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2311,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12236,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8786,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16550,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15991,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15797,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10431,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16426,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12118,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6162,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16296,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14333,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15499,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11329,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.016528925619834708,
+        "precision": 0.008368200836820083,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 15205,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5184,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11803,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14335,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9190,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15628,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10210,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.017543859649122806,
+        "precision": 0.008849557522123894,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3119,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16014,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16591,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14545,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14353,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15890,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.012422360248447206,
+        "precision": 0.006329113924050633,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 13500,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16806,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15768,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13611,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16041,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15660,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 18233,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16697,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12064,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16949,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16425,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13864,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11287,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10133,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10193,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15168,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5131,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01226993865030675,
+        "precision": 0.00625,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 15674,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14912,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7825,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8755,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.00749063670411985,
+        "precision": 0.003787878787878788,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 13727,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14127,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16477,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15610,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11898,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16791,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5153,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15727,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13458,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16263,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14905,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13330,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11757,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12743,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16427,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13629,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16058,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9499,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12459,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11428,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5591,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14017,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15790,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5439,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9012,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.012121212121212121,
+        "precision": 0.006097560975609756,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9919,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16412,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14888,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8519,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006191950464396284,
+        "precision": 0.003115264797507788,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 15916,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5926,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16379,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16027,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14996,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.015384615384615384,
+        "precision": 0.007751937984496124,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10607,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11121,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16542,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16651,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16508,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10922,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15995,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16210,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12850,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9598,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16271,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15717,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14563,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11636,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8973,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16686,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15794,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16345,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15865,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16012,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11518,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16109,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16885,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15710,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14814,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4540,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12069,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12875,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16730,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12354,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15466,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3621,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7435,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14455,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15126,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15838,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12294,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5104,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7870,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16827,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1879,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13575,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01652892561983471,
+        "precision": 0.008403361344537815,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 11839,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15369,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8920,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16035,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11796,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6365,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16358,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16875,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16503,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13383,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16184,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16688,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.09523809523809525,
+        "precision": 0.05555555555555555,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 15291,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16508,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16586,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15761,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13771,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11030,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005665722379603399,
+        "precision": 0.0028735632183908046,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 15700,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14652,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16567,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16181,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12574,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6669,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.007518796992481203,
+        "precision": 0.00392156862745098,
+        "recall": 0.09090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 5945,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.007067137809187279,
+        "precision": 0.0035460992907801418,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16703,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16543,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.025974025974025972,
+        "precision": 0.0136986301369863,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 10910,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9273,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10839,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11120,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11019,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15742,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15807,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3627,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16777,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4187,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16438,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14415,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15552,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16773,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14613,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16431,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14295,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6581,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16667,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13567,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8246,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16441,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16785,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7080,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11517,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12222,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12312,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15353,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15591,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7620,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9319,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15653,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14747,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5453,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005763688760806917,
+        "precision": 0.002890173410404624,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10974,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01282051282051282,
+        "precision": 0.006535947712418301,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 7242,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16493,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10519,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14593,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4108,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17538,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6772,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    }
+]

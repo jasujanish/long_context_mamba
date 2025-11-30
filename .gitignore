@@ -6,3 +6,4 @@
 !full_results_random.json
 !full_results_curriculum.json
 !nemotron-results/**/*.json
+!full_results_base.json
