@@ -170,6 +170,7 @@ def main():
         tokenizer=tokenizer,
         max_rows = None, 
         sample = 0.01, # taking a 1% sample 
+        curriculum=False,
     )
 
     # Model setup
@@ -194,7 +195,7 @@ def main():
 
     # GRPO config
     training_args = GRPOConfig(
-        output_dir="mamba-1.4b-rag-rl-grpo",
+        output_dir="mamba-1.4b-rag-rl-grpo-random",
         num_train_epochs=1,
         per_device_train_batch_size=1, 
         gradient_accumulation_steps=4,
@@ -213,7 +214,7 @@ def main():
     )
 
     print('starting trainer')
-    file_logger = LogToFileCallback("training_logs.txt")
+    file_logger = LogToFileCallback("training_logs_random.txt")
     trainer = GRPOTrainer(
         model=model,
         args=training_args,

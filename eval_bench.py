@@ -1,8 +1,6 @@
 import json
 from tqdm import tqdm
-import os
 import torch
-import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import re
 import string
@@ -105,14 +103,13 @@ if __name__ == "__main__":
 
     # Load model, tokenizer
     print("Loading model and tokenizer")
-    model_path = "..."
+    model_path = "mamba-1.4b-rag-rl-grpo-random/checkpoint-1600/"
     all_data = []
 
     tok = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
     if tok.pad_token is None:
         tok.pad_token = tok.eos_token
     tok.padding_side = "left" # Mamba generation usually requires left padding
-
     model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True, torch_dtype=dtype).to(device)
     model.eval()
 
