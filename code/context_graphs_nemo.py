@@ -26,7 +26,7 @@ for model in models:
 
 nemotron_df = pd.concat(all_dfs, ignore_index=True)
 
-bin_size = 1500
+bin_size = 5000
 bins = np.arange(0, nemotron_df['context_length'].max() + bin_size, bin_size)
 nemotron_df['context_bin'] = pd.cut(nemotron_df['context_length'], bins=bins)
 

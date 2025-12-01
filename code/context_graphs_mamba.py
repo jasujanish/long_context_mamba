@@ -25,7 +25,7 @@ mrand_df['model'] = 'Mamba Rand'
 mamba_df = pd.concat([mbase_df, mcurr_df, mrand_df], ignore_index=True)
 
 
-bin_size = 1500
+bin_size = 5000
 bins = np.arange(0, mamba_df['context_length'].max() + bin_size, bin_size)
 mamba_df['context_bin'] = pd.cut(mamba_df['context_length'], bins=bins)
 
