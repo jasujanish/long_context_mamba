@@ -13,18 +13,31 @@ for file in files:
     with open(file, "r") as f:
         data = json.load(f)
 
+    # Per-benchmark aggregations
     agg = defaultdict(lambda: {
-        "context_length_sum": 0,
-        "f1_sum": 0,
-        "precision_sum": 0,
-        "recall_sum": 0,
+        "context_length_sum": 0.0,
+        "f1_sum": 0.0,
+        "precision_sum": 0.0,
+        "recall_sum": 0.0,
         "count": 0,
         "total_sum": 0,
     })
 
-    # Aggregate per benchmark
+    # Global (across all benchmarks) aggregations
+    global_stats = {
+        "context_length_sum": 0.0,
+        "f1_sum": 0.0,
+        "precision_sum": 0.0,
+        "recall_sum": 0.0,
+        "count": 0,
+        "total_sum": 0,
+    }
+
+    # Aggregate
     for row in data:
         b = row["benchmark"]
+
+        # Per-benchmark
         agg[b]["context_length_sum"] += row["context_length"]
         agg[b]["f1_sum"] += row["f1"]
         agg[b]["precision_sum"] += row["precision"]
@@ -32,12 +45,20 @@ for file in files:
         agg[b]["total_sum"] += row.get("total", 0)
         agg[b]["count"] += 1
 
+        # Global
+        global_stats["context_length_sum"] += row["context_length"]
+        global_stats["f1_sum"] += row["f1"]
+        global_stats["precision_sum"] += row["precision"]
+        global_stats["recall_sum"] += row["recall"]
+        global_stats["total_sum"] += row.get("total", 0)
+        global_stats["count"] += 1
+
     # Prepare JSONL output file
     out_file = file.replace(".json", ".jsonl").replace("full", "summary")
     out_path = os.path.join("mamba-results", os.path.basename(out_file))
 
     with open(out_path, "w") as out:
-        # Compute averages and write each as JSONL line
+        # Per-benchmark JSONL lines
         for benchmark, vals in agg.items():
             c = vals["count"]
             obj = {
@@ -50,5 +71,18 @@ for file in files:
                 "num_entries": c,
             }
             out.write(json.dumps(obj) + "\n")
+
+        # Global summary (micro average across all entries)
+        gc = global_stats["count"]
+        global_obj = {
+            "benchmark": "ALL",
+            "avg_context_length": global_stats["context_length_sum"] / gc,
+            "avg_f1": global_stats["f1_sum"] / gc,
+            "avg_precision": global_stats["precision_sum"] / gc,
+            "avg_recall": global_stats["recall_sum"] / gc,
+            "total_examples": global_stats["total_sum"],
+            "num_entries": gc,
+        }
+        out.write(json.dumps(global_obj) + "\n")
 
     print(f"Wrote JSONL: {out_path}")

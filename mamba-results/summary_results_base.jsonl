@@ -2,3 +2,4 @@
 {"benchmark": "multifieldqa_en.jsonl", "avg_context_length": 7106.586666666667, "avg_f1": 0.012742410240058575, "avg_precision": 0.01590889468645745, "avg_recall": 0.054093500554026855, "total_examples": 150, "num_entries": 150}
 {"benchmark": "qasper.jsonl", "avg_context_length": 5147.465, "avg_f1": 0.009641912814464852, "avg_precision": 0.006062450638404121, "avg_recall": 0.06744516899117642, "total_examples": 200, "num_entries": 200}
 {"benchmark": "hotpotqa.jsonl", "avg_context_length": 13016.595, "avg_f1": 0.008806533284240324, "avg_precision": 0.008360644305406095, "avg_recall": 0.05043073593073594, "total_examples": 200, "num_entries": 200}
+{"benchmark": "ALL", "avg_context_length": 8206.825333333334, "avg_f1": 0.007883702002143281, "avg_precision": 0.0072418231360329224, "avg_recall": 0.05319195729633122, "total_examples": 750, "num_entries": 750}
