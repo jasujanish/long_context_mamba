@@ -50,7 +50,7 @@ for i, model in enumerate(models):
 
 ax.set_xlabel('Context Length', fontsize=12, fontweight='bold')
 ax.set_ylabel('Average F1 Score', fontsize=12, fontweight='bold')
-ax.set_title('Average F1 Score by Context Length Across Models', fontsize=14, fontweight='bold')
+ax.set_title('Average F1 Score by Context Length', fontsize=14, fontweight='bold')
 ax.set_xticks(x)
 ax.set_xticklabels([f'{int(mid)}' for mid in df_pivot.index], rotation=45, ha='right')
 ax.legend(title='Model', fontsize=10)
