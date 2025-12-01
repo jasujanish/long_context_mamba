@@ -10,7 +10,7 @@ def load_json_file(filepath):
     return data
 
 models = ['base', 'random', 'curriculum']
-benchmarks = ['2wikimqa', 'qasper']
+benchmarks = ['2wikimqa', 'qasper', 'hotpotqa', 'multifieldqa_en']
 
 all_dfs = []
 
