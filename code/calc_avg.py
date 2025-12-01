@@ -1,7 +1,7 @@
 import json
 from collections import defaultdict
 
-files = ["full_results_base.json", "full_results_curriculum.json", "full_results_random.json"]
+files = ["mamba-results/full_results_base_o.json", "mamba-results/full_results_curriculum.json", "mamba-results/full_results_random.json"]
 for file in files:
     # Setup
     with open(file, "r") as f:
