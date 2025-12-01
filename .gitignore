@@ -7,3 +7,8 @@
 !full_results_curriculum.json
 !nemotron-results/**/*.json
 !full_results_base.json
+!training-logs/averages.json 
+!training-logs/training_logs_9b_curriculum.json 
+!training-logs/training_logs_9b_random.json 
+!training-logs/training_logs_curriclum.json 
+!training-logs/training_logs_random.json
