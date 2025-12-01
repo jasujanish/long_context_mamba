@@ -1,0 +1,186 @@
+[
+    {
+        "context_length": 7241,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.13333333333333333,
+        "precision": 0.07142857142857142,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7133,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.011834319526627219,
+        "precision": 0.005952380952380952,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6786,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11700,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7717,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7707,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.25,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7658,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.007017543859649123,
+        "precision": 0.0035460992907801418,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 11241,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.5,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6263,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7937,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.008032128514056224,
+        "precision": 0.0040650406504065045,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 15696,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5528,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.013157894736842105,
+        "precision": 0.006644518272425249,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 2268,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.030188679245283023,
+        "precision": 0.015384615384615385,
+        "recall": 0.8,
+        "total": 1
+    },
+    {
+        "context_length": 5476,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6980,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14927,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2643,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.014760147601476014,
+        "precision": 0.00749063670411985,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 8689,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1164,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5511,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4181,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11309,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006622516556291392,
+        "precision": 0.0033783783783783786,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 13114,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.007168458781362006,
+        "precision": 0.0036363636363636364,
+        "recall": 0.25,
+        "total": 1
+    }
+]
