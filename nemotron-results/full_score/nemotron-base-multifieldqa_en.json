@@ -1,0 +1,50 @@
+[
+    {
+        "context_length": 1726,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11030,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.019607843137254905,
+        "precision": 0.009966777408637873,
+        "recall": 0.6,
+        "total": 1
+    },
+    {
+        "context_length": 8030,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.12371134020618557,
+        "precision": 0.06741573033707865,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 11783,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.45161290322580644,
+        "precision": 0.4117647058823529,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 7728,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.006802721088435373,
+        "precision": 0.0035587188612099642,
+        "recall": 0.07692307692307693,
+        "total": 1
+    },
+    {
+        "context_length": 10414,
+        "benchmark": "multifieldqa_en.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    }
+]

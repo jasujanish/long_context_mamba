@@ -1,0 +1,10 @@
+{
+    "hotpotqa.jsonl": {
+        "avg_context_length": 15835.6,
+        "avg_f1": 0.003980769629276582,
+        "avg_precision": 0.0020068351376213113,
+        "avg_recall": 0.3333333333333333,
+        "total_examples": 5,
+        "num_entries": 5
+    }
+}
