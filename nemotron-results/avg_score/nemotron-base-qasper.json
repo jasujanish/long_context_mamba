@@ -1,10 +1,10 @@
 {
     "qasper.jsonl": {
-        "avg_context_length": 5725.795454545455,
-        "avg_f1": 0.21059451826527054,
-        "avg_precision": 0.16208686864879016,
-        "avg_recall": 0.4140609096011675,
-        "total_examples": 44,
-        "num_entries": 44
+        "avg_context_length": 5165.24,
+        "avg_f1": 0.21242659831659474,
+        "avg_precision": 0.1713872001584776,
+        "avg_recall": 0.4169904786805614,
+        "total_examples": 200,
+        "num_entries": 200
     }
 }

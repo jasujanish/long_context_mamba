@@ -350,5 +350,1253 @@
         "precision": 0.11428571428571428,
         "recall": 1.0,
         "total": 1
+    },
+    {
+        "context_length": 7060,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.20338983050847456,
+        "precision": 0.2608695652173913,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 4775,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.06896551724137931,
+        "precision": 0.08333333333333333,
+        "recall": 0.058823529411764705,
+        "total": 1
+    },
+    {
+        "context_length": 2454,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.163265306122449,
+        "precision": 0.0975609756097561,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 4399,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5217391304347826,
+        "precision": 0.35294117647058826,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3376,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.02857142857142857,
+        "precision": 0.02702702702702703,
+        "recall": 0.030303030303030304,
+        "total": 1
+    },
+    {
+        "context_length": 5661,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3569,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6054,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3945,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2015,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0392156862745098,
+        "precision": 0.02127659574468085,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 20334,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.005376344086021506,
+        "precision": 0.00273224043715847,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 5216,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.02680965147453083,
+        "precision": 0.013850415512465374,
+        "recall": 0.4166666666666667,
+        "total": 1
+    },
+    {
+        "context_length": 4809,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.6666666666666665,
+        "precision": 0.5454545454545454,
+        "recall": 0.8571428571428571,
+        "total": 1
+    },
+    {
+        "context_length": 22109,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.25925925925925924,
+        "precision": 0.175,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 6713,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.43478260869565216,
+        "precision": 0.43478260869565216,
+        "recall": 0.43478260869565216,
+        "total": 1
+    },
+    {
+        "context_length": 3110,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3723,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.26229508196721313,
+        "precision": 0.27586206896551724,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 4448,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.24657534246575344,
+        "precision": 0.17307692307692307,
+        "recall": 0.42857142857142855,
+        "total": 1
+    },
+    {
+        "context_length": 3259,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.45,
+        "precision": 0.6,
+        "recall": 0.36,
+        "total": 1
+    },
+    {
+        "context_length": 5270,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3998,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.26666666666666666,
+        "precision": 0.16326530612244897,
+        "recall": 0.7272727272727273,
+        "total": 1
+    },
+    {
+        "context_length": 2513,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5189,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10579,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.11594202898550725,
+        "precision": 0.06153846153846154,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3649,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.20512820512820512,
+        "precision": 0.12903225806451613,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 3156,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07142857142857142,
+        "precision": 0.037037037037037035,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5800,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2519,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2058823529411765,
+        "precision": 0.17073170731707318,
+        "recall": 0.25925925925925924,
+        "total": 1
+    },
+    {
+        "context_length": 6827,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.4,
+        "precision": 0.25,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9940,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5910,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.028169014084507046,
+        "precision": 0.015151515151515152,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 3068,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3990,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5408,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.34782608695652173,
+        "precision": 0.21052631578947367,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2214,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.13333333333333333,
+        "precision": 0.10344827586206896,
+        "recall": 0.1875,
+        "total": 1
+    },
+    {
+        "context_length": 3836,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.1875,
+        "precision": 0.10714285714285714,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 6018,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4482,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.625,
+        "precision": 0.45454545454545453,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3424,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.4150943396226416,
+        "precision": 0.3384615384615385,
+        "recall": 0.5365853658536586,
+        "total": 1
+    },
+    {
+        "context_length": 4432,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.13333333333333333,
+        "precision": 1.0,
+        "recall": 0.07142857142857142,
+        "total": 1
+    },
+    {
+        "context_length": 5845,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.22680412371134018,
+        "precision": 0.15942028985507245,
+        "recall": 0.39285714285714285,
+        "total": 1
+    },
+    {
+        "context_length": 5452,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2594,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5170,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07692307692307693,
+        "precision": 0.11764705882352941,
+        "recall": 0.05714285714285714,
+        "total": 1
+    },
+    {
+        "context_length": 6596,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.4210526315789474,
+        "precision": 0.26666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2228,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.3870967741935484,
+        "precision": 0.3333333333333333,
+        "recall": 0.46153846153846156,
+        "total": 1
+    },
+    {
+        "context_length": 5656,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.25,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6458,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2574,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3827,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.608695652173913,
+        "precision": 0.4666666666666667,
+        "recall": 0.875,
+        "total": 1
+    },
+    {
+        "context_length": 4922,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5333333333333333,
+        "precision": 0.4,
+        "recall": 0.8,
+        "total": 1
+    },
+    {
+        "context_length": 2053,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2227,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6003,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.36666666666666664,
+        "precision": 0.2391304347826087,
+        "recall": 0.7857142857142857,
+        "total": 1
+    },
+    {
+        "context_length": 6663,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3259,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2666666666666666,
+        "precision": 0.2727272727272727,
+        "recall": 0.2608695652173913,
+        "total": 1
+    },
+    {
+        "context_length": 7379,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.36363636363636365,
+        "precision": 0.39215686274509803,
+        "recall": 0.3389830508474576,
+        "total": 1
+    },
+    {
+        "context_length": 5890,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.047619047619047616,
+        "precision": 0.024390243902439025,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3186,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.7407407407407407,
+        "precision": 0.5882352941176471,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2063,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2473,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5263157894736842,
+        "precision": 0.38461538461538464,
+        "recall": 0.8333333333333334,
+        "total": 1
+    },
+    {
+        "context_length": 4002,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.23529411764705882,
+        "precision": 0.1568627450980392,
+        "recall": 0.47058823529411764,
+        "total": 1
+    },
+    {
+        "context_length": 6304,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.14492753623188406,
+        "precision": 0.078125,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2212,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.28169014084507044,
+        "precision": 0.24390243902439024,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 4514,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.6956521739130436,
+        "precision": 0.5333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3995,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2622950819672131,
+        "precision": 0.2962962962962963,
+        "recall": 0.23529411764705882,
+        "total": 1
+    },
+    {
+        "context_length": 5720,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.026936026936026935,
+        "precision": 0.014598540145985401,
+        "recall": 0.17391304347826086,
+        "total": 1
+    },
+    {
+        "context_length": 5189,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7667,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.33333333333333326,
+        "precision": 0.375,
+        "recall": 0.3,
+        "total": 1
+    },
+    {
+        "context_length": 10597,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.17647058823529413,
+        "precision": 0.2857142857142857,
+        "recall": 0.1276595744680851,
+        "total": 1
+    },
+    {
+        "context_length": 3120,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3722,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3704,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5,
+        "precision": 0.45454545454545453,
+        "recall": 0.5555555555555556,
+        "total": 1
+    },
+    {
+        "context_length": 3115,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.19999999999999998,
+        "precision": 0.1111111111111111,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9171,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4705,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4513,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.09999999999999999,
+        "precision": 0.07272727272727272,
+        "recall": 0.16,
+        "total": 1
+    },
+    {
+        "context_length": 3965,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2448979591836735,
+        "precision": 0.17647058823529413,
+        "recall": 0.4,
+        "total": 1
+    },
+    {
+        "context_length": 3725,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5020,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07692307692307693,
+        "precision": 0.5,
+        "recall": 0.041666666666666664,
+        "total": 1
+    },
+    {
+        "context_length": 5832,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.43478260869565216,
+        "precision": 0.3125,
+        "recall": 0.7142857142857143,
+        "total": 1
+    },
+    {
+        "context_length": 5720,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.15384615384615385,
+        "precision": 0.23529411764705882,
+        "recall": 0.11428571428571428,
+        "total": 1
+    },
+    {
+        "context_length": 3297,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5581395348837209,
+        "precision": 0.3870967741935484,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7836,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.13333333333333333,
+        "precision": 0.11428571428571428,
+        "recall": 0.16,
+        "total": 1
+    },
+    {
+        "context_length": 6751,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.17777777777777778,
+        "precision": 0.10810810810810811,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 3999,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.8,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3033,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.13186813186813187,
+        "precision": 0.0821917808219178,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 3355,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.6,
+        "precision": 0.46153846153846156,
+        "recall": 0.8571428571428571,
+        "total": 1
+    },
+    {
+        "context_length": 4736,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.19999999999999998,
+        "precision": 0.12903225806451613,
+        "recall": 0.4444444444444444,
+        "total": 1
+    },
+    {
+        "context_length": 8373,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4378,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07407407407407407,
+        "precision": 0.047619047619047616,
+        "recall": 0.16666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 4972,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6286,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.06666666666666667,
+        "precision": 0.14285714285714285,
+        "recall": 0.043478260869565216,
+        "total": 1
+    },
+    {
+        "context_length": 2666,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.33333333333333337,
+        "precision": 0.2,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3385,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5,
+        "precision": 0.391304347826087,
+        "recall": 0.6923076923076923,
+        "total": 1
+    },
+    {
+        "context_length": 3504,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.21686746987951805,
+        "precision": 0.15254237288135594,
+        "recall": 0.375,
+        "total": 1
+    },
+    {
+        "context_length": 7321,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.09876543209876543,
+        "precision": 0.07407407407407407,
+        "recall": 0.14814814814814814,
+        "total": 1
+    },
+    {
+        "context_length": 5515,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.21428571428571427,
+        "precision": 0.18072289156626506,
+        "recall": 0.2631578947368421,
+        "total": 1
+    },
+    {
+        "context_length": 5867,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.08,
+        "precision": 0.046296296296296294,
+        "recall": 0.29411764705882354,
+        "total": 1
+    },
+    {
+        "context_length": 5412,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.24,
+        "precision": 0.14285714285714285,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 4429,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.10526315789473685,
+        "precision": 0.1,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 5714,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.11267605633802817,
+        "precision": 0.07017543859649122,
+        "recall": 0.2857142857142857,
+        "total": 1
+    },
+    {
+        "context_length": 2428,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.25,
+        "precision": 0.2,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 3369,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.56,
+        "precision": 0.4375,
+        "recall": 0.7777777777777778,
+        "total": 1
+    },
+    {
+        "context_length": 6599,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5454545454545454,
+        "precision": 0.375,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3016,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2776,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.19047619047619047,
+        "precision": 0.14285714285714285,
+        "recall": 0.2857142857142857,
+        "total": 1
+    },
+    {
+        "context_length": 5708,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.4126984126984127,
+        "precision": 0.28888888888888886,
+        "recall": 0.7222222222222222,
+        "total": 1
+    },
+    {
+        "context_length": 3273,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.27272727272727276,
+        "precision": 0.16071428571428573,
+        "recall": 0.9,
+        "total": 1
+    },
+    {
+        "context_length": 5446,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2758620689655173,
+        "precision": 0.2,
+        "recall": 0.4444444444444444,
+        "total": 1
+    },
+    {
+        "context_length": 4219,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2962962962962963,
+        "precision": 0.26666666666666666,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 5904,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.36363636363636365,
+        "precision": 0.25,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 3846,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.8947368421052632,
+        "precision": 0.8095238095238095,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6029,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2857142857142857,
+        "precision": 0.1702127659574468,
+        "recall": 0.8888888888888888,
+        "total": 1
+    },
+    {
+        "context_length": 6641,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2787,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4965,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5263157894736842,
+        "precision": 0.45454545454545453,
+        "recall": 0.625,
+        "total": 1
+    },
+    {
+        "context_length": 5765,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.36,
+        "precision": 0.25,
+        "recall": 0.6428571428571429,
+        "total": 1
+    },
+    {
+        "context_length": 2584,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2821,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2845,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.4406779661016949,
+        "precision": 0.2826086956521739,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5131,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3199,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5418,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.3414634146341463,
+        "precision": 0.2692307692307692,
+        "recall": 0.4666666666666667,
+        "total": 1
+    },
+    {
+        "context_length": 4308,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.4285714285714286,
+        "precision": 0.41379310344827586,
+        "recall": 0.4444444444444444,
+        "total": 1
+    },
+    {
+        "context_length": 3965,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.061538461538461535,
+        "precision": 0.06666666666666667,
+        "recall": 0.05714285714285714,
+        "total": 1
+    },
+    {
+        "context_length": 6677,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.35443037974683544,
+        "precision": 0.25,
+        "recall": 0.6086956521739131,
+        "total": 1
+    },
+    {
+        "context_length": 5316,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.35,
+        "precision": 0.30434782608695654,
+        "recall": 0.4117647058823529,
+        "total": 1
+    },
+    {
+        "context_length": 3185,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07999999999999999,
+        "precision": 0.041666666666666664,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3763,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.08,
+        "precision": 0.1,
+        "recall": 0.06666666666666667,
+        "total": 1
+    },
+    {
+        "context_length": 6097,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.14285714285714285,
+        "precision": 0.08333333333333333,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 6460,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.14285714285714285,
+        "precision": 0.08333333333333333,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 6289,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.23529411764705882,
+        "precision": 0.13333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4942,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9139,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.24719101123595505,
+        "precision": 0.16417910447761194,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 2772,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2903,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.1142857142857143,
+        "precision": 0.06060606060606061,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6299,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2816901408450704,
+        "precision": 0.18518518518518517,
+        "recall": 0.5882352941176471,
+        "total": 1
+    },
+    {
+        "context_length": 5172,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.36496350364963503,
+        "precision": 0.29069767441860467,
+        "recall": 0.49019607843137253,
+        "total": 1
+    },
+    {
+        "context_length": 5280,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.26666666666666666,
+        "precision": 0.18181818181818182,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 6715,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.32,
+        "precision": 0.19047619047619047,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3666,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.2285714285714286,
+        "precision": 0.1509433962264151,
+        "recall": 0.47058823529411764,
+        "total": 1
+    },
+    {
+        "context_length": 3200,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3674,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.7272727272727274,
+        "precision": 0.6153846153846154,
+        "recall": 0.8888888888888888,
+        "total": 1
+    },
+    {
+        "context_length": 4022,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5019,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.028169014084507043,
+        "precision": 0.016666666666666666,
+        "recall": 0.09090909090909091,
+        "total": 1
+    },
+    {
+        "context_length": 8210,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0125,
+        "precision": 0.006309148264984227,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 4674,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.07407407407407406,
+        "precision": 0.04081632653061224,
+        "recall": 0.4,
+        "total": 1
+    },
+    {
+        "context_length": 4429,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4301,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.15384615384615385,
+        "precision": 0.08333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5587,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6004,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9941,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6003,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.5925925925925926,
+        "precision": 0.42105263157894735,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 2469,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.05405405405405405,
+        "precision": 0.028985507246376812,
+        "recall": 0.4,
+        "total": 1
+    },
+    {
+        "context_length": 6753,
+        "benchmark": "qasper.jsonl",
+        "f1": 0.1904761904761905,
+        "precision": 0.10526315789473684,
+        "recall": 1.0,
+        "total": 1
     }
 ]
