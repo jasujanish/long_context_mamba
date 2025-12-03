@@ -38,5 +38,1565 @@
         "precision": 0.0038314176245210726,
         "recall": 0.3333333333333333,
         "total": 1
+    },
+    {
+        "context_length": 15816,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005780346820809248,
+        "precision": 0.002898550724637681,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 15793,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2261,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.018181818181818184,
+        "precision": 0.009174311926605505,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 13477,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9318,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16979,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16750,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15919,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10926,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16733,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006024096385542169,
+        "precision": 0.0030959752321981426,
+        "recall": 0.1111111111111111,
+        "total": 1
+    },
+    {
+        "context_length": 12999,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.02316602316602317,
+        "precision": 0.011764705882352941,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 6478,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.017804154302670624,
+        "precision": 0.008982035928143712,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 17177,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14696,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16118,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.011627906976744186,
+        "precision": 0.005847953216374269,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 11548,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16095,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5447,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.00823045267489712,
+        "precision": 0.004149377593360996,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 11729,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14787,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.03164556962025316,
+        "precision": 0.01607717041800643,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10034,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15689,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9713,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3361,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.2105263157894737,
+        "precision": 0.13333333333333333,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 17632,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17147,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15497,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01923076923076923,
+        "precision": 0.009708737864077669,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 15288,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16652,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.024193548387096774,
+        "precision": 0.012244897959183673,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 14999,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16920,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.012658227848101266,
+        "precision": 0.006369426751592357,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16344,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14014,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17165,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.020761245674740487,
+        "precision": 0.01048951048951049,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16517,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.017467248908296942,
+        "precision": 0.00881057268722467,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 18265,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16854,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.011235955056179775,
+        "precision": 0.005780346820809248,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 12866,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16578,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17229,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14740,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.17391304347826084,
+        "precision": 0.09523809523809523,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 11283,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10387,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10462,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01840490797546012,
+        "precision": 0.00964630225080386,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 15263,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5098,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01941747572815534,
+        "precision": 0.00980392156862745,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16672,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15421,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8930,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9302,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13945,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15351,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.011428571428571427,
+        "precision": 0.005780346820809248,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 17322,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006269592476489028,
+        "precision": 0.0031645569620253164,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 16001,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12099,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17351,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5538,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15855,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14258,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.05063291139240507,
+        "precision": 0.025974025974025976,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 17120,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16062,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13815,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12906,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13710,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17237,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14176,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16007,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9263,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.25,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12808,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.013071895424836602,
+        "precision": 0.006578947368421052,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12115,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.012578616352201257,
+        "precision": 0.006329113924050633,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6083,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15576,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.013289036544850499,
+        "precision": 0.006711409395973154,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 15739,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5513,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005665722379603399,
+        "precision": 0.002840909090909091,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9206,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10160,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005917159763313609,
+        "precision": 0.002976190476190476,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 16943,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15168,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005730659025787966,
+        "precision": 0.0028735632183908046,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9488,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17794,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.03333333333333333,
+        "precision": 0.01744186046511628,
+        "recall": 0.375,
+        "total": 1
+    },
+    {
+        "context_length": 5656,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16330,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17059,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16348,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10794,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12315,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16984,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16334,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17250,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11867,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16976,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.4,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 17490,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13374,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10272,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01384083044982699,
+        "precision": 0.006968641114982578,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16833,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16784,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15282,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.03058103975535168,
+        "precision": 0.015527950310559006,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12460,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9546,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.5,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16118,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16006,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16995,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16479,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17304,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12118,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17018,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01081081081081081,
+        "precision": 0.005555555555555556,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 16971,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15986,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14828,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4784,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.012987012987012988,
+        "precision": 0.006535947712418301,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12439,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14517,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.007751937984496124,
+        "precision": 0.00390625,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 16765,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 12985,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006535947712418301,
+        "precision": 0.003278688524590164,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 17696,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3626,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7251,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.03636363636363636,
+        "precision": 0.018518518518518517,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 14399,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15534,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.007168458781362007,
+        "precision": 0.0036231884057971015,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 15966,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.011904761904761906,
+        "precision": 0.005988023952095809,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12401,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5249,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8391,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16693,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005847953216374269,
+        "precision": 0.002932551319648094,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 1909,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.9333333333333333,
+        "precision": 0.875,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 14262,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.08695652173913045,
+        "precision": 0.045454545454545456,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12118,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15119,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01149425287356322,
+        "precision": 0.0058823529411764705,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 9236,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005649717514124295,
+        "precision": 0.002849002849002849,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 16759,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12420,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6752,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.007168458781362007,
+        "precision": 0.0036231884057971015,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 16512,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17189,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.00954653937947494,
+        "precision": 0.004796163069544364,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 17294,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14291,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.022857142857142857,
+        "precision": 0.011627906976744186,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 16955,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17370,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15845,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17136,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 1.0,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 16655,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16086,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13867,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11849,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.00784313725490196,
+        "precision": 0.004,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 16866,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15210,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16341,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.013745704467353952,
+        "precision": 0.006944444444444444,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 17143,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12802,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6469,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.5185185185185185,
+        "precision": 0.4375,
+        "recall": 0.6363636363636364,
+        "total": 1
+    },
+    {
+        "context_length": 6321,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005899705014749263,
+        "precision": 0.0029585798816568047,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16765,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.012658227848101266,
+        "precision": 0.006369426751592357,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 17251,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.5,
+        "precision": 0.5,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 11336,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.011834319526627219,
+        "precision": 0.005952380952380952,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9363,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11817,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11635,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11541,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16949,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01520912547528517,
+        "precision": 0.007662835249042145,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16599,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3630,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16896,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4568,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006944444444444444,
+        "precision": 0.0034965034965034965,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 17722,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.005464480874316941,
+        "precision": 0.0027548209366391185,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 15095,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.04093567251461988,
+        "precision": 0.020895522388059702,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16243,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16505,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.007575757575757576,
+        "precision": 0.0038314176245210726,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 14618,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16687,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.010050251256281407,
+        "precision": 0.005063291139240506,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 14592,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6810,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16988,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.11111111111111112,
+        "precision": 0.07142857142857142,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 14093,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.2222222222222222,
+        "precision": 0.125,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8051,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16988,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16385,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7237,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.011869436201780414,
+        "precision": 0.005988023952095809,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 12625,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12425,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12869,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16588,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16026,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8152,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9979,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006269592476489029,
+        "precision": 0.0031746031746031746,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 15990,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15379,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5814,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.006329113924050633,
+        "precision": 0.0031746031746031746,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 11405,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.01212121212121212,
+        "precision": 0.0061162079510703364,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 7506,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17175,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.033898305084745756,
+        "precision": 0.017543859649122806,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 10920,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 15010,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4558,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 17354,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6668,
+        "benchmark": "hotpotqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
     }
 ]

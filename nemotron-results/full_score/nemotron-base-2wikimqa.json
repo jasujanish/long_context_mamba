@@ -182,5 +182,1421 @@
         "precision": 0.0036363636363636364,
         "recall": 0.25,
         "total": 1
+    },
+    {
+        "context_length": 8930,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9711,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.008264462809917354,
+        "precision": 0.0041841004184100415,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 1693,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.09756097560975609,
+        "precision": 0.05128205128205128,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4904,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.13793103448275862,
+        "precision": 0.07407407407407407,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6211,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6883,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7520,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7402,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.011267605633802818,
+        "precision": 0.0057306590257879654,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 8691,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.4444444444444444,
+        "precision": 0.3333333333333333,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 17099,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5091,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6496,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.011834319526627219,
+        "precision": 0.005952380952380952,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4758,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.09302325581395349,
+        "precision": 0.04878048780487805,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7225,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4710,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.01840490797546012,
+        "precision": 0.009287925696594427,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9864,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7164,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7203,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3958,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12377,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8503,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6335,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9595,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.017341040462427744,
+        "precision": 0.008771929824561403,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 6243,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5685,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 1837,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4921,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14912,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7499,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5360,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5698,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.2424242424242424,
+        "precision": 0.13793103448275862,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6190,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.017543859649122806,
+        "precision": 0.008928571428571428,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 4346,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006666666666666666,
+        "precision": 0.003367003367003367,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 6230,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10484,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3467,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4571,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11407,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3746,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3414,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.14814814814814814,
+        "precision": 0.08,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8029,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2404,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7992,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.020477815699658706,
+        "precision": 0.010344827586206896,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4857,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4908,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6131,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5217,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.7499999999999999,
+        "precision": 0.6,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6486,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8030,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6722,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.02380952380952381,
+        "precision": 0.012048192771084338,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 1017,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5791,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4794,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.8333333333333333,
+        "precision": 0.7142857142857143,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12603,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5939,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16078,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5579,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.25,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5937,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006779661016949153,
+        "precision": 0.003401360544217687,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6716,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7077,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8366,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5184,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.013605442176870748,
+        "precision": 0.006872852233676976,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 15280,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8749,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.05555555555555556,
+        "precision": 0.02857142857142857,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8782,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13541,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.007407407407407408,
+        "precision": 0.003745318352059925,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 3866,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.05714285714285715,
+        "precision": 0.029411764705882353,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8755,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.07547169811320754,
+        "precision": 0.0392156862745098,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9525,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7075,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.030211480362537766,
+        "precision": 0.015337423312883436,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16050,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6275,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8071,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.013377926421404682,
+        "precision": 0.006734006734006734,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12069,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3099,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14855,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4906,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6659,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3078,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5919,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006944444444444445,
+        "precision": 0.003484320557491289,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7036,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14739,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5458,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.011730205278592375,
+        "precision": 0.005988023952095809,
+        "recall": 0.2857142857142857,
+        "total": 1
+    },
+    {
+        "context_length": 2788,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.7499999999999999,
+        "precision": 0.6,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4885,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006578947368421052,
+        "precision": 0.0033112582781456954,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 5821,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4068,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.020905923344947733,
+        "precision": 0.01056338028169014,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6623,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.5454545454545454,
+        "precision": 0.375,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3885,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.012539184952978056,
+        "precision": 0.006309148264984227,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6446,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9645,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6614,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11076,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5127,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.25,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7864,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 2129,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 1864,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4322,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.005747126436781608,
+        "precision": 0.002890173410404624,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 5930,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.00784313725490196,
+        "precision": 0.003937007874015748,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4964,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6866,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.23076923076923078,
+        "precision": 0.13043478260869565,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8311,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 7898,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 15127,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4307,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006269592476489028,
+        "precision": 0.0031645569620253164,
+        "recall": 0.3333333333333333,
+        "total": 1
+    },
+    {
+        "context_length": 6849,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.14285714285714288,
+        "precision": 0.07692307692307693,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5784,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14381,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5619,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5593,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.015957446808510637,
+        "precision": 0.00804289544235925,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4938,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.7499999999999999,
+        "precision": 0.6,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 3801,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6742,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7244,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12959,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6784,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006269592476489028,
+        "precision": 0.0031545741324921135,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 5596,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6218,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.3333333333333333,
+        "precision": 0.25,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 7551,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11638,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4691,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6963,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.5,
+        "precision": 0.375,
+        "recall": 0.75,
+        "total": 1
+    },
+    {
+        "context_length": 9787,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5421,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.7499999999999999,
+        "precision": 0.6,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 4230,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.6511627906976745,
+        "precision": 0.4827586206896552,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 16632,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6593,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5408,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13575,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6692,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13631,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 12631,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7661,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 8023,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16898,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5990,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.5714285714285715,
+        "precision": 0.4,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9759,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 14691,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4694,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 10322,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6711,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 4809,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.14285714285714288,
+        "precision": 0.07692307692307693,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6535,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5016,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.023622047244094488,
+        "precision": 0.012048192771084338,
+        "recall": 0.6,
+        "total": 1
+    },
+    {
+        "context_length": 4622,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.023166023166023165,
+        "precision": 0.01171875,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 10841,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5583,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5578,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7738,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.2,
+        "precision": 0.11764705882352941,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 14966,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6411,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 13048,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006042296072507554,
+        "precision": 0.0030303030303030303,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 9838,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.25,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 13501,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 11570,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6158,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.6666666666666666,
+        "precision": 0.5,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 5565,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6301,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 7576,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5115,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6322,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.2222222222222222,
+        "precision": 0.125,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 8267,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5338,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 3228,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006688963210702341,
+        "precision": 0.003355704697986577,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 6249,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.006006006006006007,
+        "precision": 0.00303951367781155,
+        "recall": 0.25,
+        "total": 1
+    },
+    {
+        "context_length": 1500,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16191,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 9597,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.5714285714285715,
+        "precision": 0.4,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 1254,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 16873,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6856,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 6626,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.02105263157894737,
+        "precision": 0.010752688172043012,
+        "recall": 0.5,
+        "total": 1
+    },
+    {
+        "context_length": 6920,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.12121212121212122,
+        "precision": 0.06451612903225806,
+        "recall": 1.0,
+        "total": 1
+    },
+    {
+        "context_length": 12922,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.007604562737642585,
+        "precision": 0.003875968992248062,
+        "recall": 0.2,
+        "total": 1
+    },
+    {
+        "context_length": 5265,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.01234567901234568,
+        "precision": 0.006230529595015576,
+        "recall": 0.6666666666666666,
+        "total": 1
+    },
+    {
+        "context_length": 5165,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
+    },
+    {
+        "context_length": 5997,
+        "benchmark": "2wikimqa.jsonl",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "total": 1
     }
 ]

@@ -1,10 +1,10 @@
 {
     "2wikimqa.jsonl": {
-        "avg_context_length": 7776.913043478261,
-        "avg_f1": 0.08617891400673568,
-        "avg_precision": 0.0694659600386312,
-        "avg_recall": 0.35000000000000003,
-        "total_examples": 23,
-        "num_entries": 23
+        "avg_context_length": 7507.235,
+        "avg_f1": 0.12282091084486473,
+        "avg_precision": 0.10273490185807255,
+        "avg_recall": 0.35609523809523813,
+        "total_examples": 200,
+        "num_entries": 200
     }
 }
