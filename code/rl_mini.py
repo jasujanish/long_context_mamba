@@ -43,16 +43,16 @@ def repetition_reward(completions: List[str], **kwargs,) -> List[float]:
 
 # Model id, system prompt
 MODEL_ID = "state-spaces/mamba-1.4b-hf"
-
-# Note: Mamba 1.4b is a BASE model, not an instruct model. This model may fail at RL.
 SYSTEM_PROMPT = 'Answer the question using only the provided passages.\n\n' 
 SYSTEM_PROMPT += 'Verify your answer directly against the text, and cite only the passages you used in your final answer. Cite passages in the form [Title].\n\n' 
 SYSTEM_PROMPT += "Respond in the following format: \n\n <reasoning>\n...\n</reasoning>\n<answer>\n...\n</answer>\n\n"
 
 class LogToFileCallback(TrainerCallback):
+    '''
+    Helper class to write training log metrics
+    '''
     def __init__(self, output_file):
         self.output_file = output_file
-        # Create/Clear the file when we start
         with open(self.output_file, "w") as f:
             f.write("Training Logs\n")
 
@@ -138,17 +138,10 @@ def make_grpo_dataset(pickle_path: str, tokenizer: AutoTokenizer, max_rows: Opti
 
     print(f"Dataset size before filtering: {len(df)}")
     
-    # Calculate token lengths
-    # We use a simple lambda with the tokenizer. 
-    # Note: We assume truncation=False here to get the real length.
+    # Filter dataset before training
     df["token_len"] = df["prompt"].apply(lambda x: len(tokenizer(x, add_special_tokens=False)["input_ids"]))
-    
-    # Filter: Keep only rows where token_len <= max_prompt_length
     df = df[df["token_len"] <= MAX_PROMPT_LENGTH]
-    
     print(f"Dataset size after filtering (> {MAX_PROMPT_LENGTH} removed): {len(df)}")
-
-    # Only keep columns we need
     df = df[["prompt", "answer", "gold_ids"]]
 
     return Dataset.from_pandas(df, preserve_index=False)
@@ -162,7 +155,6 @@ def main():
         tokenizer.pad_token = tokenizer.eos_token
     # GRPO requires left padding for generation
     tokenizer.padding_side = "left"
-
     # Load data
     print('loading data')
     train_dataset = make_grpo_dataset(
@@ -198,14 +190,14 @@ def main():
         num_train_epochs=1,
         per_device_train_batch_size=1, 
         gradient_accumulation_steps=4,
-        learning_rate=1e-6,              # Lowered LR for Mamba stability
+        learning_rate=1e-6,                     # Lowered LR for Mamba stability
         logging_steps=100,
         save_steps=200,
         save_total_limit=7,
         bf16=use_bf16, 
         gradient_checkpointing=True,
-        num_generations=4,                      # Increased to get better variance for GRPO baseline
-        max_prompt_length=MAX_PROMPT_LENGTH,    # Note: no errors for 2048, increased because that's what our data actually looks like
+        num_generations=4,                      
+        max_prompt_length=MAX_PROMPT_LENGTH,    
         beta=0.01,
         max_completion_length=256,             
         scale_rewards="batch",          
