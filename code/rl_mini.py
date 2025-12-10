@@ -188,7 +188,7 @@ def main():
     training_args = GRPOConfig(
         output_dir="mamba-1.4b-rag-rl-grpo",
         num_train_epochs=1,
-        per_device_train_batch_size=1, 
+        per_device_train_batch_size=4, 
         gradient_accumulation_steps=4,
         learning_rate=1e-6,                     # Lowered LR for Mamba stability
         logging_steps=100,

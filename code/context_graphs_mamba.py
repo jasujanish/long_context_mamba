@@ -1,3 +1,4 @@
+# This file is used to create graphs for the results of post-training Mamba1.4b
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -59,7 +60,3 @@ ax.grid(axis='y', alpha=0.3, linestyle='--')
 plt.tight_layout()
 plt.savefig('mamba_f1_vs_context_histogram.png', dpi=300, bbox_inches='tight')
 plt.show()
-
-
-
-
